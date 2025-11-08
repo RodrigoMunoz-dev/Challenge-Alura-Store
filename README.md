@@ -81,7 +81,7 @@ Archivos CSV utilizados:
 
 ## 📊 Visualizaciones destacadas
 - **Ingresos Totales por Tienda** (barras verticales)  
-- **Distribución de Ventas por Categoría** (gráfico circular)  
+- **Top 5 Categorías mas vendidas por tienda (barras verticales)
 - **Calificación Promedio por Tienda** (barras con etiquetas)  
 - **Costo Promedio de Envío** (barras horizontales formateadas)  
 - **Productos Más y Menos Vendidos** (Top 10 comparativo)
